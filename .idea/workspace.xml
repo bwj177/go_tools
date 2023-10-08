@@ -30,12 +30,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="dev-bao" />
-                    <option name="lastUsedInstant" value="1696658939" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1696746564" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1696658938" />
+                    <option name="branchName" value="dev-bao" />
+                    <option name="lastUsedInstant" value="1696658939" />
                   </RecentBranch>
                 </list>
               </option>
@@ -46,9 +46,9 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2WQDRCR9mTj6xOtznkU3dOdJ5qS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,6 +64,7 @@
     "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "C:/Users/ACER/GolandProjects/netease/ngo@v1.2.1",
