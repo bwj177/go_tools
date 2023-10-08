@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81f68dd1-a57b-4923-91f8-04e0fbf7e2a5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/go_tools.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/commonUtil.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataStruct/dataStructUtil.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/httpUtil.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/mapUtil.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slice/sliceUtil.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/stringUtil.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time/timeUtil.go" afterDir="false" />
-    </list>
+    <list default="true" id="81f68dd1-a57b-4923-91f8-04e0fbf7e2a5" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +64,6 @@
     "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "dev-bao",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "C:/Users/ACER/GolandProjects/netease/ngo@v1.2.1",
